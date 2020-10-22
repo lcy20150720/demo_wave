@@ -26,8 +26,8 @@ componentDidMount() {
     canvasWidth: this.canvasWidth, // 轴长
     canvasHeight: this.canvasHeight, // 轴高
     waveWidth: 0.055, // 波浪宽度,数越小越宽
-    waveHeight: 4, // 波浪高度,数越大越高
-    colors: ['#F39C6B', '#A0563B'], // 波浪颜色
+    waveHeight: 7, // 波浪高度,数越大越高
+    colors: ['#2f76fe', '#10306e'], // 波浪颜色
     xOffset: 0, // 初始偏移
     speed: 0.04, // 速度
   });
@@ -35,8 +35,8 @@ componentDidMount() {
     canvasWidth: this.canvasWidth, // 轴长
     canvasHeight: this.canvasHeight, // 轴高
     waveWidth: 0.04, // 波浪宽度,数越小越宽
-    waveHeight: 3, // 波浪高度,数越大越高
-    colors: ['rgba(243, 156, 107, 0.48)', 'rgba(160, 86, 59, 0.48)'], // 波浪颜色
+    waveHeight: 7, // 波浪高度,数越大越高
+    colors: ['rgba(47, 118, 254, 0.48)', 'rgba(16, 48, 110, 0.48)'], // 波浪颜色
     xOffset: 2, // 初始偏移
     speed: 0.02, // 速度
   });

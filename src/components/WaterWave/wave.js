@@ -6,7 +6,7 @@ class Wave {
     waveHeight = 6, // 波浪高度,数越大越高
     xOffset = 0,
     speed = 0.04,
-    colors = ['#DBB77A', '#BF8F3B'], // 波浪颜色
+    colors = ['#2f76fe', '#10306e'], // 波浪颜色
   } = {}) {
     this.points = [];
     this.startX = 0;
